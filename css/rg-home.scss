@@ -68,7 +68,7 @@ html{
           a{
             width: 52/$sc+rem;
             height: 100%;
-            line-height: 80/$sc+rem;
+            line-height: 84/$sc+rem;
             text-align: center;
             display: block;
             font-size: 26/$sc+rem;
@@ -162,6 +162,7 @@ html{
               span{
                 &:first-child{
                   color: #ffda44;
+                  margin-bottom: 2/$sc+rem;
                 }
               }
             }
