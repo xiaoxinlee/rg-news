@@ -101,6 +101,8 @@ html, html body, html body .box, html body .box header ul {
                 padding: 0;
                 font-size: 0.4rem;
                 color: #cfcfcf; }
+                html body .box .section ul li .lee-left p span:first-child {
+                  margin-right: 0.5rem; }
             html body .box .section ul li .lee-right {
               width: 5.76rem;
               height: 100%;

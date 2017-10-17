@@ -118,6 +118,11 @@ html{
                 padding: 0;
                 font-size: 20/$sc+rem;
                 color: #cfcfcf;
+                span{
+                  &:first-child{
+                    margin-right: 25/$sc+rem;
+                  }
+                }
               }
             }
             .lee-right{
